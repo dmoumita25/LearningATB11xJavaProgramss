@@ -19,5 +19,7 @@ public class Lab030_Scanner_Nameagesal {
         System.out.println(name);
         System.out.println(age);
         System.out.println(salary);
+
+        scanner.close();
     }
 }
